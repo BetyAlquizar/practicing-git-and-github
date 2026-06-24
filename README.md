@@ -1,2 +1,4 @@
 # practicing-git-and-github
-Here I will practice and document all the steps needed to learn Git and GitHub.
+This repository is dedicated to learn and practice Git and GitHub.
+
+I will use it to document my progress, store exercises and keep track of the commands, workflows and concepts I learn along the way.
